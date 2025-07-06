@@ -5,6 +5,13 @@ Java User Management - Online Transport System 🚗
 
 Welcome to the Java User Management project! This Java-based web application is designed for an Online Transport System, offering robust user management features including registration, login, profile management, and logout. Built with Java Servlets, JSP, and MySQL, it ensures secure and efficient handling of user data for transport-related applications. 🌐
 
+
+
+
+
+
+
+
 ✨ Features
 
 
@@ -29,6 +36,13 @@ Logout 🚪: Securely log out from the system.
 
 MySQL Database 🗄️: Reliable storage and management of user information.
 
+
+
+
+
+
+
+
 🛠️ Technologies Used
 
 
@@ -48,6 +62,12 @@ MySQL: Database for storing and managing user data.
 
 
 Apache Tomcat: Web server for deploying the application.
+
+
+
+
+
+
 
 📋 Prerequisites
 
@@ -72,6 +92,12 @@ MySQL Connector/J (JDBC driver)
 
 
 IDE (e.g., Eclipse, IntelliJ IDEA)
+
+
+
+
+
+
 
 
 📬 Contact
